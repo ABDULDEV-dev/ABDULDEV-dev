@@ -5,7 +5,7 @@
   ![gitartwork](gitartwork.svg)
   
   <!-- <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=ADAMU+MUHAMMAD+MUHAMMAD;Computer+Science+Student;From+Gombe+State+Nigeria;Software+Engineering+student+@+Alx+hobelton+school&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=ABDULKADIR+ADAMU;Computer+Science+Student;From+Gombe+State+Nigeria;Software+Engineering+student+@+Alx+hobelton+school&center=true&width=380&height=45"></a>
 </p> -->
 </h1>
   
@@ -47,7 +47,7 @@
  
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adamsgeeky&show_icons=true&locale=en" alt="abduldev-dev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abduldev-dev&show_icons=true&locale=en" alt="abduldev-dev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adamsgeeky&" alt="abduldev-dev" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adamsgeeky&label=Profile%20views&color=0e75b6&style=flat" alt="abduldev-dev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abduldev-dev&" alt="abduldev-dev" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abduldev-dev&label=Profile%20views&color=0e75b6&style=flat" alt="abduldev-dev" /></p>
