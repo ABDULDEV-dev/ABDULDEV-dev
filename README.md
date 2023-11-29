@@ -22,11 +22,11 @@
 
 - 🤝 I’m looking for help with [Software Engeneering ](https://github.com/AdamsGeeky/personal_Software_Engineering_journey)
 
-- 👨‍💻 All of my projects are available at [https://github.com/AdamsGeeky](https://github.com/AdamsGeeky)
+- 👨‍💻 All of my projects are available at [https://github.com/abduldev-dev](https://github.com/Abduldev-dev)
 
-- 📝 I regularly write articles on [Geekink Blogs](https://geekink.hashnode.dev/)
+- 📝 I regularly write articles on [Abdul Blogs](https://abduldev.hashnode.dev/)
 
-![](https://activity-graph.herokuapp.com/graph?username=Adamsgeeky&theme=react-dark&hide_border=true&area=true)
+![](https://activity-graph.herokuapp.com/graph?username=Abduldev-dev&theme=react-dark&hide_border=true&area=true)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/adamuweb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="adamuweb" height="30" width="40" /></a>
