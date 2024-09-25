@@ -1,18 +1,25 @@
-<h1 align="center">Hey There!<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35"> 
- 
-<!-- I am a Student with a passion for solving problems and creating innovative solutions. I have a strong background in computer science and have experience working on a variety of projects, including web development, mobile app development, and open source. In my free time, I enjoy learning new technologies, reading, and spending time with my family. I am a hardworking and dedicated individual who is always striving to improve my skills and grow as a professional. -->
- 
-  ![gitartwork](gitartwork.svg)
-  
-  <!-- <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=ABDULKADIR+ADAMU;Computer+Science+Student;From+Gombe+State+Nigeria;Software+Engineering+student+@+Alx+hobelton+school&center=true&width=380&height=45"></a>
-</p> -->
-</h1>
-  
+ name: gitartwork from a contribution graph
+ on: 
+   push:
+   schedule:
+     - cron: '* */24 * * *'
+ jobs:
+   build:
+     name: Make gitartwork SVG
+     runs-on: ubuntu-latest
+     steps:
+       - uses: actions/checkout@v3
+       - uses: jasineri/gitartwork@v1
+         with:
+            # Use this username's contribution graph  
+            user_name: AdamsGeeky
+            # Text on contribution graph 
+            text: ABDULDEV-dev
+            text: A. DEV
+       - uses: jasineri/simple-push-action@v1
 
 
 
-<!-- <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p> -->
 
 ## 🙋‍♂️ About Me
 
