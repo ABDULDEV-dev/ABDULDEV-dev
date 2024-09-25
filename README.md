@@ -12,7 +12,7 @@
        - uses: jasineri/gitartwork@v1
          with:
             # Use this username's contribution graph  
-            user_name: AdamsGeeky
+            user_name: ABDULDEV-dev
             # Text on contribution graph 
             text: ABDULDEV-dev
             text: A. DEV
