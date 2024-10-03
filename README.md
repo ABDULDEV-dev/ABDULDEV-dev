@@ -15,7 +15,7 @@
             user_name: ABDULDEV-dev
             # Text on contribution graph 
             text: ABDULDEV-dev
-            text: A. DEV
+            text: ABDULDEV
        - uses: jasineri/simple-push-action@v1
 
 
