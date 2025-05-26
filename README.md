@@ -1,22 +1,26 @@
- name: gitartwork from a contribution graph
- on: 
-   push:
-   schedule:
-     - cron: '* */24 * * *'
- jobs:
-   build:
-     name: Make gitartwork SVG
-     runs-on: ubuntu-latest
-     steps:
-       - uses: actions/checkout@v3
-       - uses: jasineri/gitartwork@v1
-         with:
-            # Use this username's contribution graph  
-            user_name: ABDULDEV-dev
-            # Text on contribution graph 
-            text: ABDULDEV-dev
-            text: ABDULDEV
-       - uses: jasineri/simple-push-action@v1
+name: gitartwork from a contribution graph
+
+on: 
+  push:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+
+jobs:
+  build:
+    name: Make gitartwork SVG
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: jasineri/gitartwork@v1
+        with:
+          # Use this username's contribution graph  
+          user_name: ABDULDEV-dev
+          # Text on contribution graph 
+          text: ABDULDEV
+
+      - uses: jasineri/simple-push-action@v1
+
 
 
 
