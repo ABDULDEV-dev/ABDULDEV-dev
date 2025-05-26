@@ -27,7 +27,7 @@
 
 - 👯 I’m looking to collaborate on **open source project**
 
-- 🤝 I’m looking for help with [Software Engeneering ](https://github.com/AdamsGeeky/personal_Software_Engineering_journey)
+- 🤝 I’m looking for help with [Software Engeneering ](https://github.com/AbdulDev/personal_Software_Engineering_journey)
 
 - 👨‍💻 All of my projects are available at [https://github.com/abduldev-dev](https://github.com/Abduldev-dev)
 
